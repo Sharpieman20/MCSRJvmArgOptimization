@@ -1,0 +1,3 @@
+ea binaries: https://inside.java/2022/10/18/generationalzgc-ea/
+JEP: https://bugs.openjdk.org/browse/JDK-8272979
+

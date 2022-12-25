@@ -1,0 +1,5 @@
+what to cover?
+    how exactly zgc works
+    new arguments added
+    basics of g1 generational vs zgc generational
+        much covered in the JEP but code understanding + snippets would be good
