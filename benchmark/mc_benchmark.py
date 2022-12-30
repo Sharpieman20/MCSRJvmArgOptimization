@@ -14,6 +14,7 @@ def is_done():
     return attempts >= target_attempts
 
 def main():
+    print("You're dumb for trying to run this")
     start_time = time.time()
     while not is_done():
         loop()
